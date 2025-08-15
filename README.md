@@ -1,22 +1,31 @@
-# Expense Tracker App
+Expense Tracker Application (Mendix Project)
 
-**Expense Tracker App**, kullanıcıların günlük gelir ve giderlerini kolayca takip edebilmesi için geliştirilmiş modern bir web uygulamasıdır.  
-Harcamalarınızı kategorilere ayırabilir, grafiklerle analiz edebilir ve bütçe kontrolünüzü sağlayabilirsiniz.
+⚠️ This project was developed for portfolio purposes. Source code and project files (.mpk) can be shared upon request.
 
----
+📝 About the Project
+This application is a web-based platform developed using Mendix Studio Pro to help users easily track their daily income and expenses.
+Users can categorize their transactions, analyze them with visual charts, and maintain better control over their budgets.
+The application was designed with a low-code approach to enable fast development and provide a user-friendly interface.
 
-## 🚀 Özellikler
-- **Gelir ve Gider Ekleme** – Tutar, kategori, tarih ve açıklama alanları
-- **Kategori Bazlı Analiz** – Harcamalarınızı kategorilere göre filtreleme
-- **Grafik Görselleştirme** – Chart.js ile gelir-gider karşılaştırması
-- **Bütçe Limiti Belirleme** – Aylık limit aşımlarında uyarı mesajı
-- **Responsive Tasarım** – Tüm cihaz boyutlarına uyumlu arayüz
+🚀 Features
+Income & Expense Entry – Add transactions with amount, category, date, and description
+Category-Based Filtering – List transactions filtered by categories
+Visual Data Analysis – Integrated charts to compare income and expenses
+Budget Limit Alerts – Set a monthly budget limit and receive notifications when exceeded
+Responsive Interface – Fully adaptable design across all devices
 
----
+🧰 Technologies & Modules Used
+Mendix Studio Pro – Application development
+Data View & Forms – Income and expense entry forms
+Charts / Widgets – Visual representation of income and expenses
+Microflows & Nanoflows – Workflow and data management
+LocalStorage / Mendix Database – Data storage
+Responsive Layout & Styling – Device-friendly design
 
-## 🛠️ Teknoloji Yığını
-- **Frontend:** React.js  
-- **Grafikler:** Chart.js  
-- **Veri Yönetimi:** React Hooks (useState, useEffect)  
-- **Stil:** Tailwind CSS veya CSS Modules  
-- **Depolama:** LocalStorage (isteğe bağlı API entegrasyonu)
+👨‍💻 My Role
+Designed the domain model and structured the data.
+Developed user-friendly forms for income and expense entry.
+Integrated charts and widgets for expense analysis.
+Configured microflows to manage data saving, updating, and filtering workflows.
+Implemented functionality to monitor budget limits.
+Ensured a responsive design for seamless use across all devices.
