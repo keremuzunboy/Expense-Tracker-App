@@ -34,3 +34,8 @@ The application was designed with a low-code approach to enable fast development
 - Configured microflows to manage data saving, updating, and filtering workflows.
 - Implemented functionality to monitor budget limits.
 - Ensured a responsive design for seamless use across all devices.
+
+
+<img width="1536" height="1024" alt="Dashboard : Ana Sayfa" src="https://github.com/user-attachments/assets/5b8ec2cf-f937-4ca8-9c54-a63839b6999a" />
+<img width="1536" height="1024" alt="Grafik ve Analiz Sayfası" src="https://github.com/user-attachments/assets/509d0de2-dd5c-44fb-ba28-fd3bdb2044e4" />
+<img width="1024" height="1536" alt="Gelir ve Gider Girişi" src="https://github.com/user-attachments/assets/c075ce60-734e-4e83-b158-ff8b40607699" />
