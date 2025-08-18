@@ -26,7 +26,7 @@ The application was designed with a low-code approach to enable fast development
 - LocalStorage / Mendix Database – Data storage
 - Responsive Layout & Styling – Device-friendly design
 
-##👨‍💻 My Role
+## 👨‍💻 My Role
 
 - Designed the domain model and structured the data.
 - Developed user-friendly forms for income and expense entry.
